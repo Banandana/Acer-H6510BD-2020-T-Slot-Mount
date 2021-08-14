@@ -6,7 +6,7 @@
 
 ![Alt text](projector_corner_mount.png?raw=true)
 
-![Alt text](printed_result.png?raw=true)
+![Alt text](printed_result.jpg?raw=true)
 
 Mounts an Acer H6510BD to a 2020 T slot beam.
 
